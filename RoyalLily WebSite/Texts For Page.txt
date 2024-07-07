@@ -1,0 +1,17 @@
+RU:
+Royal Lily
+Политика конфиденциальности - (текст политики в другом файле, страницу политики не обязательно красиво редактировать)
+Откройте для себя увлекательный мир игр Королевской Лилии! - (девиз компании Royal Lily)
+Flower Shop
+Выведите свою собственную коллекцию уникальных цветов! - (девиз Flower Shop)
+
+EN:
+Discover the exciting world of Royal Lily games! - (девиз компании Royal Lily)
+Privacy Policy
+Bring out your own collection of unique flowers! - (девиз Flower Shop)
+
+Ссылка на страницу с игрой (если можно, добавить ее в иконку игры и в название игры, чтобы можно было на них нажать и перейти на этот сайт):
+https://play.google.com/store/apps/details?id=com.RoyalLily.FlowerShop
+
+Политику конфиденциальности сделай, пожалуйста, на отдельной странице, чтобы можно было до нее добраться типо по такому пути https://royal.lily/privacy_policy
+бо мне надо будет ссылку указать на странице игры в Google Play
